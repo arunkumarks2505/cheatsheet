@@ -421,6 +421,7 @@ Initialize kubeadm
 ```
 kubeadm init
 ```
+https://www.programmerall.com/article/99842435629/
 
 Configure kubectl using commands in the output:
 ```
